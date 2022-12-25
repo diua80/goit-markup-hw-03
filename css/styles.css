@@ -451,7 +451,7 @@ color: var(--title-color);
 }
 
 .project-item-sign{
-    width: 360;
+    width: 360px;
     background-color: #fff;
     padding-left: 16px;
     padding-top: 32px;
