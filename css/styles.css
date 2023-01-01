@@ -200,6 +200,8 @@ line-height: 1.5;
     .hero {
         background-color: var(--background-color);
         text-align: center;
+        padding-top: 192px;
+        padding-bottom: 192px;
         }
 
         .hero-box{
@@ -251,6 +253,7 @@ line-height: 1.5;
         
 
            .solution {
+            padding-bottom: 0px;
         }
         .solution-title {
         }
@@ -282,6 +285,7 @@ line-height: 1.5;
         line-height: 1.5;
         letter-spacing: 0.02em;
         color: #434455;
+        padding-bottom: 0px;
         }
  
 /* --------------------SERVICES ----------------*/
@@ -333,10 +337,10 @@ line-height: 1.5;
     background-color: var(--white);
     box-shadow: 0px 1px 6px rgba(46, 47, 66, 0.08), 0px 1px 1px rgba(46, 47, 66, 0.16), 0px 2px 1px rgba(46, 47, 66, 0.08);
 }
-.team-organise{
+/* .team-organise{
     padding-top: 120px;
 
-}
+} */
 
 .team-text-organise{
     padding-top: 32px;
